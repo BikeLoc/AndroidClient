@@ -1,3 +1,0 @@
-[submodule "app/src/main/MobileWebClient"]
-	path = app/src/main/MobileWebClient
-	url = https://github.com/BikeLoc/MobileWebClient.git
